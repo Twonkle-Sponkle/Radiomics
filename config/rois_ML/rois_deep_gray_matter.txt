@@ -1,0 +1,15 @@
+LeftCaudate
+RightCaudate
+LeftPutamen
+RightPutamen
+LeftThalamus
+RightThalamus
+LeftRedNucleus
+RightRedNucleus
+
+LeftExtThalamus
+RightExtThalamus
+LeftInsideThalamus
+RightInsideThalamus
+LeftIntThalamus
+RightIntThalamus

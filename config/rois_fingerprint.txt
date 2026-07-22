@@ -1,0 +1,5 @@
+LeftSuperior
+LeftIntThalamus
+RightPosterior
+RightPutamen
+RightIntThalamus

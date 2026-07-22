@@ -1,0 +1,8 @@
+LeftCST
+RightCST
+LeftCCGenu
+LeftCCSplenium
+RightCCGenu
+RightCCSplenium
+LeftFrontal
+RightFrontal

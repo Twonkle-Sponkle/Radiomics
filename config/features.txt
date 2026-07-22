@@ -1,0 +1,10 @@
+Mean
+StandardDeviation
+Entropy
+Skewness
+Kurtosis
+Contrast
+Correlation
+Idm
+RunLengthNonUniformity
+SizeZoneNonUniformity
